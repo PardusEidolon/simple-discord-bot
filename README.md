@@ -19,3 +19,4 @@ The `config.json` is not pushed due to security reason. I understand the fact th
 - https://discord.com/developers/docs/intro
 - https://discord.js.org/#/docs/main/stable/general/welcome
 - https://discordjs.guide/#before-you-begin
+- https://birdie0.github.io/discord-webhooks-guide/json.html
