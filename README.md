@@ -13,3 +13,9 @@ The `config.json` is not pushed due to security reason. I understand the fact th
     "guildId": "your server Id"
 }
 ```
+
+## Usefull Links
+- https://discord.com/developers/applications
+- https://discord.com/developers/docs/intro
+- https://discord.js.org/#/docs/main/stable/general/welcome
+- https://discordjs.guide/#before-you-begin
