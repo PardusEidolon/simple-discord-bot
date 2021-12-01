@@ -6,11 +6,13 @@ The `config.json` is not pushed due to security reason. I understand the fact th
 
 ## Config structure for reference
 
+NOTE: one must enable `Developer mode` under user settings `advanced`
+
 ```json
 {
-    "token": "your bot's unique token Id located in the bot tap in the discord developer portal",
-    "clientId": "your username Id",
-    "guildId": "your server Id"
+    "token": "your bot's unique token Id located in the bot tap in the discord developer portal under the menu `bot`", 
+    "clientId": "your username Id",// copied from the three dots under 'my account' 
+    "guildId": "your server Id" // copied by right clicking on the server name
 }
 ```
 
