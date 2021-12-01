@@ -21,3 +21,4 @@ NOTE: one must enable `Developer mode` under user settings `advanced`
 - https://discord.com/developers/docs/intro
 - https://discord.js.org/#/docs/main/stable/general/welcome
 - https://discordjs.guide/#before-you-begin
+- https://birdie0.github.io/discord-webhooks-guide/json.html
